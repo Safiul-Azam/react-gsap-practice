@@ -1,7 +1,9 @@
+import Box from "./component/Box";
+
 function App() {
   return (
     <div className="container">
-    <h2 className=""></h2>
+    <Box/>
     </div>
   );
 }
