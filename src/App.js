@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-    <h2 className="text-green-300">ER oadf new project</h2>
+    <h2 className="text-green-300"></h2>
     </div>
   );
 }
